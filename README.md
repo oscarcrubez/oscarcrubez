@@ -31,6 +31,10 @@
 
 | <a href="https://github.com/oscarcrubez/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=oscarcrubez&show_icons=true&include_all_commits=true&theme=highcontrast&hide_border=true" alt="Oscar's github stats" /></a> | <a href="https://github.com/oscarcrubez/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarcrubez&layout=compact&theme=highcontrast&hide_border=true" /></a> |
 
+| <a href="https://github.com/oscarcrubez/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=oscarcrubez&show_icons=true&include_all_commits=true&theme=highcontrast&hide_border=true" alt="Oscar's github stats" height="200px" /></a> | <a href="https://github.com/oscarcrubez/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarcrubez&layout=compact&theme=highcontrast&hide_border=true" height="200px" /></a> |
+|---|---|
+
+
 <!--
 **oscarcrubez/oscarcrubez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
