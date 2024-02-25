@@ -13,7 +13,7 @@
 
  ### 🧰 Languages and Tools
 <img align="left" alt="Java" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-
+<img align="left" alt="Python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
 <!--
 **oscarcrubez/oscarcrubez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
