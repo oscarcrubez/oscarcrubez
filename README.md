@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/WIQ0N0OUvei1OW1h9Z/giphy.gif" width="100"/>
+  ![Texto alternativo](https://raw.githubusercontent.com/oscarcrubez/Profile-Readme-Images/main/v.1%20Copia%20de%20banner%20github%20(1000%20x%20350%20px).gif?token=GHSAT0AAAAAACM3X4ESTT2ARNBU57ZDAUHQZO3SZGA)
   <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -7,7 +7,8 @@
 </div>
   <img src="https://komarev.com/ghpvc/?username=oscarcrubez&style=flat-square&color=blue" alt=""/>
 </div>
-### Hi there 👋
+
+
 
 <!--
 **oscarcrubez/oscarcrubez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
