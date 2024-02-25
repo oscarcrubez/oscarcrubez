@@ -7,6 +7,9 @@
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=oscarcrubez&style=flat-square&color=blue" alt=""/>
 </div>
@@ -30,12 +33,17 @@
 #
 
 
-<!-- stats -->
+###
 
-![Oscar's GitHub stats](https://github-readme-stats.vercel.app/api?username=oscarcrubez&show_icons=true&theme=highcontrast)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=oscarcrubez&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oscarcrubez&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
+###
+
+<!--
 | <a href="https://github.com/oscarcrubez/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=oscarcrubez&show_icons=true&include_all_commits=true&theme=highcontrast&hide_border=true" alt="Oscar's github stats" /></a> | <a href="https://github.com/oscarcrubez/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarcrubez&layout=compact&theme=highcontrast&hide_border=true" /></a> |
 | ------------- | ------------- |
-
-
+-->
 
