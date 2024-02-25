@@ -12,50 +12,30 @@
 </div>
 
  ### 🧰 Languages and Tools
-<img align="left" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img align="left" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align="left" alt="Astro" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" />
-<img align="left" alt="SQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-<img align="left" alt="Linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-<img align="left" alt="Bash" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
-<img align="left" alt="Xml" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" />
-<img align="left" alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+ <div id="languages" align="center">
+  <img align="left" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="left" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align="left" alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img align="left" alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img align="left" alt="Astro" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" />
+  <img align="left" alt="SQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+  <img align="left" alt="Linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+  <img align="left" alt="Bash" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
+  <img align="left" alt="Xml" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" />
+  <img align="left" alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+ </div>
 <br />
 <br />
 
 #
+
+
+<!-- stats -->
 
 ![Oscar's GitHub stats](https://github-readme-stats.vercel.app/api?username=oscarcrubez&show_icons=true&theme=highcontrast)
 
 | <a href="https://github.com/oscarcrubez/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=oscarcrubez&show_icons=true&include_all_commits=true&theme=highcontrast&hide_border=true" alt="Oscar's github stats" /></a> | <a href="https://github.com/oscarcrubez/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarcrubez&layout=compact&theme=highcontrast&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-<table style="background-color: transparent; border-collapse: collapse;">
-  <tr>
-    <td>
-      <a href="https://github.com/oscarcrubez/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=oscarcrubez&show_icons=true&include_all_commits=true&theme=highcontrast&hide_border=true" alt="Oscar's github stats" /></a>
-    </td>
-    <td>
-      <a href="https://github.com/oscarcrubez/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarcrubez&layout=compact&theme=highcontrast&hide_border=true" /></a>
-    </td>
-  </tr>
-</table>
 
 
-
-<!--
-**oscarcrubez/oscarcrubez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
