@@ -11,8 +11,9 @@
   <img src="https://komarev.com/ghpvc/?username=oscarcrubez&style=flat-square&color=blue" alt=""/>
 </div>
 
-### 🧰 Languages and Tools
- <img align="left" alt="Java" width="30px" style="padding-right:10px"; src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+ ### 🧰 Languages and Tools
+<img align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+
 
 <!--
 **oscarcrubez/oscarcrubez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
