@@ -1,5 +1,9 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/oscarcrubez/Profile-Readme-Images/main/v.1%20Copia%20de%20banner%20github%20(1000%20x%20350%20px).gif?token=GHSAT0AAAAAACM3X4ESTT2ARNBU57ZDAUHQZO3SZGA" alt="Texto alternativo"/>
+</div>
+
+
 <div id="header" align="center">
-  ![Texto alternativo](https://raw.githubusercontent.com/oscarcrubez/Profile-Readme-Images/main/v.1%20Copia%20de%20banner%20github%20(1000%20x%20350%20px).gif?token=GHSAT0AAAAAACM3X4ESTT2ARNBU57ZDAUHQZO3SZGA)
   <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
