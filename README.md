@@ -27,7 +27,7 @@
 
 #
 
-[![Oscar's GitHub stats](https://github-readme-stats.vercel.app/api?username=oscarcrubez&show_icons=true&theme=dark)
+[![Oscar's GitHub stats](https://github-readme-stats.vercel.app/api?username=oscarcrubez&show_icons=true&theme=radical)
 
 <!--
 **oscarcrubez/oscarcrubez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
