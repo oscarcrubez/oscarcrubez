@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/oscarcrubez/Profile-Readme-Images/main/v.3%20Copia%20de%20banner%20github%20(1000%20x%20350%20px)%20(1000%20x%20260%20px).gif?token=GHSAT0AAAAAACM3X4ETDNCRMRLQNJUACLFSZO3TRBQ" alt="Texto alternativo"/>
+  <img src="https://raw.githubusercontent.com/oscarcrubez/Profile-Readme-Images/main/v.1%20AMB%20CANTONADES%20Copia%20de%20banner%20github%20(1000%20x%20350%20px)%20(1000%20x%20260%20px).gif" alt="Texto alternativo"/>
 </div>
 
 <div id="header" align="center">
