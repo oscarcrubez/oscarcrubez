@@ -4,8 +4,11 @@
 
 <div id="header" align="center">
   <div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="linkedin.com/in/oscar-cruañas-gonzalbez-23a769205L">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+   <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=oscarcrubez&style=flat-square&color=blue" alt=""/>
