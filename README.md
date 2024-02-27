@@ -1,9 +1,11 @@
+<!-- BANNER -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/oscarcrubez/Profile-Readme-Images/main/v.1%20AMB%20CANTONADES%20crubez%20Copia%20de%20banner%20github%20(1000%20x%20350%20px)%20(1000%20x%20260%20px).gif" alt="Texto alternativo"/>
 </div>
 
 <br/>
 
+<!-- BUTTONS AND SM -->
 <div align="center">
   <a href="mailto:oscar.crubez@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" height="35" />
@@ -15,6 +17,7 @@
 
   <hr/>
 
+<!-- LANGUAGES AND TOOLS -->
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
@@ -24,19 +27,27 @@
 
 <hr/>
 
-###
+<!-- STATS -->
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="oscarcrubez's Github Stats" src="https://DenverCoder1-github-readme-stats.vercel.app/api/?username=DenverCoder1&show_icons=true&include_all_commits=true&count_private=true&theme=highcontrast&hide_border=true" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="oscarcrubez's Top Languages" src="https://DenverCoder1-github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=8&layout=compact&theme=highcontrast&hide_border=true&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oscarcrubez&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&rank_icon=github&theme=highcontrast&locale=en&hide_border=false" height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oscarcrubez&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=false" height="160" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=oscarcrubez&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&rank_icon=github&theme=highcontrast&locale=en&hide_border=true" height="160" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oscarcrubez&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=true" height="160" alt="languages graph"  />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=oscarcrubez&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&rank_icon=github&theme=highcontrast&locale=en&hide_border=true" height="192px" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oscarcrubez&locale=en&hide_title=false&layout=compact&langs_count=5&theme=highcontrast&hide_border=true" height="192px" alt="languages graph"  />
 </div>
 
 <hr/>
 
-###
+<!-- TXS FOR VISITING -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Thanks%20for%20visiting-black?style=for-the-badge&logo=github&labelColor=yellow" height="35" />
+</div>
 
-<!--
-| <a href="https://github.com/oscarcrubez/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=oscarcrubez&show_icons=true&include_all_commits=true&theme=highcontrast&hide_border=true" alt="Oscar's github stats" /></a> | <a href="https://github.com/oscarcrubez/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarcrubez&layout=compact&theme=highcontrast&hide_border=true" /></a> |
-| ------------- | ------------- |
--->
+
+
 
