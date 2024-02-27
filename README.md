@@ -2,6 +2,16 @@
   <img src="https://raw.githubusercontent.com/oscarcrubez/Profile-Readme-Images/main/v.1%20AMB%20CANTONADES%20Copia%20de%20banner%20github%20(1000%20x%20350%20px)%20(1000%20x%20260%20px).gif" alt="Texto alternativo"/>
 </div>
 
+<div align="center">
+  <a href="mailto:oscar.crubez@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" height="35" />
+  </a>  
+  <a href="linkedin.com/in/oscar-cruañas-gonzalbez-23a769205">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
+  </a>
+</div>
+
+<!--
 <div id="header" align="center">
   <div id="badges">
   <a href="https://www.linkedin.com/in/oscar-crua%C3%B1as-gonzalbez-23a769205/" target="blank">
@@ -10,7 +20,7 @@
   <a href="mailto:oscar.crubez@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo">
   </a>
-    <!--
+    
    <a href="your-linkedin-URL">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
