@@ -28,11 +28,6 @@
 <hr/>
 
 <!-- STATS -->
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/?username=oscarcrubez&show_icons=true&include_all_commits=true&count_private=true&theme=highcontrast&hide_border=true" height="192px" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarcrubez&langs_count=8&layout=compact&theme=highcontrast&hide_border=true" height="192px" alt="languages graph" />
-</div>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=oscarcrubez&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&rank_icon=github&theme=highcontrast&locale=en&hide_border=true" height="160" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oscarcrubez&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=true" height="160" alt="languages graph"  />
