@@ -6,9 +6,10 @@
   <a href="mailto:oscar.crubez@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" height="35" />
   </a>  
-  <a href="linkedin.com/in/oscar-cruañas-gonzalbez-23a769205">
+  <a href="https://www.linkedin.com/in/oscar-cruañas-gonzalbez-23a769205">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
   </a>
+
 </div>
 
 <!--
