@@ -42,13 +42,13 @@
 <h2 align="center">🤖 About me 🤖</h2>
 <div >
   
-    👨‍💻 I'm a software developer highly commited to **creativity**.
+  👨‍💻 I'm a software developer highly commited to **creativity**.
   
-    🧠 **AI** enthusiast. Curretnly learning about it and how to apply it in my projects.
+  🧠 **AI** enthusiast. Curretnly learning about it and how to apply it in my projects.
   
-    ✈️ I love languages, studied **Chinese** and have work experience with it.
+  ✈️ I love languages, studied **Chinese** and have work experience with it.
   
-    ✏️ I also dedicate some of my time to **drawing** and **sports** (contact sports and table tennis). 
+  ✏️ I also dedicate some of my time to **drawing** and **sports** (contact sports and table tennis). 
 </div>
 
 <hr/>
