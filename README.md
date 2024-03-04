@@ -38,6 +38,7 @@
 <!-- ABOUT ME -->
 <h2 align="center">🤖 About me 🤖</h2>
 <div align="center">
+  
   👨‍💻I'm a software developer highly commited to **creativity**.
   
   🧠**AI** enthusiast. Curretnly learning about it and how to apply it in my projects.
