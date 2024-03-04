@@ -35,10 +35,25 @@
 
 <hr/>
 
+<!-- ABOUT ME -->
+<h2 align="center">🤖 About me 🤖</h2>
+<div align="center">
+  👨‍💻I'm a software developer highly commited to **creativity**.🎨
+  🧠**AI** enthusiast. Curretnly learning about it and how to apply it in my projects.
+  ✈️I love languages, studied **Chinese** and have work experience with it.
+  ✏️I also dedicate some of my time to **drawing** and **sports** (contact sports and table tennis). 
+</div>
+
+<hr/>
+
 <!-- TXS FOR VISITING -->
 <div align="center">
   <img src="https://img.shields.io/badge/Thanks%20for%20visiting-black?style=for-the-badge&logo=github&labelColor=yellow" height="35" />
 </div>
+
+
+
+  
 
 
 
